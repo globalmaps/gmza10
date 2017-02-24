@@ -9,6 +9,6 @@ Credit: "Global Map of the Republic of South Africa © ISCGM/State Copyright, De
 
 Contact: Department of Rural Development and Land Reform, Chief Directorate of National Geo-spatial Information. 
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/s_africa.png)
+E-mail: ![email](email.png)
 
 URL: http://www.ngi.gov.za/
